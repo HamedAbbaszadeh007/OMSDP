@@ -1,4 +1,4 @@
-Section 3: Stakeholders (Explanation)
+3.Stakeholders (Explanation)
 In the OMSDP Architecture Book, Stakeholders means all individuals, groups, or systems that have an interest in the platform or are affected by it.
 This section is important because it defines who the system is for, who uses it, and who influences it. Without clearly identifying stakeholders, the system can become unclear, over-engineered, or disconnected from real needs.
 Main idea
