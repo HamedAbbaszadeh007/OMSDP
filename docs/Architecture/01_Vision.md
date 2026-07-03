@@ -13,4 +13,4 @@ Future technologies such as Digital Twins, autonomous systems, smart sensors, an
 Most importantly, OMSDP is designed around open standards. We believe cities should own their data, not be locked into proprietary ecosystems.
 Our long-term vision is to help municipalities make better decisions, improve public services, reduce operational costs, and ultimately improve the quality of life for citizens.
 OMSDP is not simply a software project. It is a long-term vision for intelligent urban management.
-Thank you.
+### Thank you.
