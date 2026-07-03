@@ -1,4 +1,4 @@
-Hi everyone.
+1.Hi everyone.
 I would like to share our vision for the future of the Open Municipal Spatial Data Platform (OMSDP).
 We do not see OMSDP as just another WebGIS application.
 Our vision is to build an intelligent spatial platform that becomes the digital brain of a municipality.
