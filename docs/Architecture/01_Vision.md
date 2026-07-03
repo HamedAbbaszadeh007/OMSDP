@@ -6,7 +6,9 @@ In the future, every department—including urban planning, public works, utilit
 OMSDP will integrate geospatial data, descriptive information, IoT devices, BIM models, drone imagery, and real-time sensor data into one scalable ecosystem.
 Artificial Intelligence will transform this information into knowledge.
 Instead of searching for maps, city managers will ask questions in natural language.
-#### For example: #### "Which neighborhoods require infrastructure investment during the next five years?" or #### "Show me all public buildings that have a high earthquake risk and are located near schools."
+#### For example:
+#### "Which neighborhoods require infrastructure investment during the next five years?" or
+#### "Show me all public buildings that have a high earthquake risk and are located near schools."
 The platform will analyze millions of records and provide visual recommendations supported by maps, statistics, and predictive analytics.
 Our architecture is designed to be scalable, modular, cloud-native, and AI-ready. This means OMSDP will continue evolving as technology evolves.
 Future technologies such as Digital Twins, autonomous systems, smart sensors, and advanced AI agents can be integrated without redesigning the entire platform.
