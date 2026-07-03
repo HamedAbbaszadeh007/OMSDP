@@ -14,8 +14,3 @@ Most importantly, OMSDP is designed around open standards. We believe cities sho
 Our long-term vision is to help municipalities make better decisions, improve public services, reduce operational costs, and ultimately improve the quality of life for citizens.
 OMSDP is not simply a software project. It is a long-term vision for intelligent urban management.
 Thank you.
-
-OMSDP (Open Municipal Spatial Data Platform) is an open-source, cloud-native, scalable, API-first, and AI-ready platform for municipal spatial intelligence.
-Its mission is to empower municipalities through open geospatial technologies and AI-assisted decision support.
-Rather than replacing professionals, OMSDP is designed to amplify the capabilities of limited municipal GIS and IT teams, helping cities overcome shortages of specialized expertise
-while improving data integration, spatial analysis, operational efficiency, and evidence-based urban decision-making
