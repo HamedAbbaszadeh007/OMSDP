@@ -1,4 +1,4 @@
-Section 4. Users & Roles
+4. Users & Roles
 This section defines who can use OMSDP and what each user is allowed to do. While the previous section (Stakeholders) identifies everyone who has an interest in the platform, this section focuses on the people and system actors that actually interact with it.
 A clear Users & Roles architecture is the foundation for security, authorization, workflows, APIs, and future system expansion. Every feature in the platform should be accessible according to the responsibilities of a specific role.
 Objectives
