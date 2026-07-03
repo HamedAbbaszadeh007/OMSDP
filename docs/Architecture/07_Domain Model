@@ -1,0 +1,9 @@
+# 07. Domain Model
+
+## Purpose
+
+This document defines the core business entities of OMSDP and their relationships.
+
+The domain model represents the conceptual structure of the platform before designing the database or writing code.
+
+The domain model is technology-independent and focuses only on the business concepts.
