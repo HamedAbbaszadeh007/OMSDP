@@ -18,7 +18,6 @@ OMSDP is not simply a software project. It is a long-term vision for intelligent
 ### Thank you.
 
 ## Architecture Principles
-مثلاً:
 #### Architecture First
 #### API First
 #### Open Standards
