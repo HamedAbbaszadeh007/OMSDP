@@ -1,4 +1,4 @@
-# 05. Use Cases
+# Use Cases
 
 ## Purpose
 
