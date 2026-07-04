@@ -1,4 +1,4 @@
-# 15. Architecture Decision Records (ADR)
+# Architecture Decision Records (ADR)
 
 ## Purpose
 
