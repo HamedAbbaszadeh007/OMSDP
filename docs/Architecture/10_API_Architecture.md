@@ -1,4 +1,4 @@
-# 10. API Architecture
+# API Architecture
 
 ## Purpose
 
