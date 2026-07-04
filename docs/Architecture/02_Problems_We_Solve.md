@@ -1,4 +1,4 @@
-# 02. Problems We Solve
+# Problems We Solve
 OMSDP is designed to address the fundamental challenges that prevent municipalities from effectively managing, analyzing, and utilizing spatial information for decision-making.
 Rather than focusing solely on GIS functionality, the platform aims to solve organizational, technical, and analytical problems that limit the value of municipal spatial data.
 ## Fragmented Spatial Data
