@@ -17,6 +17,6 @@ Our long-term vision is to help municipalities make better decisions, improve pu
 OMSDP is not simply a software project. It is a long-term vision for intelligent urban management.
 ### Thank you.
 
-## OMSDP Architecture Book
-## Version 1.0
-## Status: Baseline Architecture
+##### OMSDP Architecture Book
+##### Version 1.0
+##### Status: Baseline Architecture
