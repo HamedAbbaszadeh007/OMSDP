@@ -1,4 +1,4 @@
-# 07. Domain Model
+#  Domain Model
 
 ## Purpose
 
