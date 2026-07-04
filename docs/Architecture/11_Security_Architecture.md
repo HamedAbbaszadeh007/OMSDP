@@ -1,4 +1,4 @@
-# 11. Security Architecture
+# Security Architecture
 
 ## Purpose
 
