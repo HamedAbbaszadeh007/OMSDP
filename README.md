@@ -13,7 +13,18 @@ OMSDP is an open-source platform for managing municipal spatial data, WebGIS, Sp
 - Integrate AI for decision support
 - Follow OGC standards
 - Be scalable and cloud-native
-
+- 
+## Architecture Principles
+#### Architecture First
+#### API First
+#### Open Standards
+#### Open Source First
+#### Security by Design
+#### AI Ready
+#### Scalability by Design
+#### Interoperability
+#### Simplicity
+#### Evolution over Perfection
 ## Project Structure
 
 
@@ -44,14 +55,4 @@ MIT License
 🚧 Early architecture and planning phase.
 
 
-## Architecture Principles
-#### Architecture First
-#### API First
-#### Open Standards
-#### Open Source First
-#### Security by Design
-#### AI Ready
-#### Scalability by Design
-#### Interoperability
-#### Simplicity
-#### Evolution over Perfection
+
