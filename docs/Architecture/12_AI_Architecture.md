@@ -1,4 +1,4 @@
-# 12. AI Architecture
+# AI Architecture
 
 ## Purpose
 
