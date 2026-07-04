@@ -1,4 +1,4 @@
-# 09. Data Architecture
+# Data Architecture
 
 ## Purpose
 
