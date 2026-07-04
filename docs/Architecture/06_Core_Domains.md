@@ -1,4 +1,4 @@
-# 06. Core Domains
+#  Core Domains
 
 ## Purpose
 
