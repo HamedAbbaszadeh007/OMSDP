@@ -1,4 +1,4 @@
-# 08. System Architecture
+#  System Architecture
 
 ## Purpose
 
