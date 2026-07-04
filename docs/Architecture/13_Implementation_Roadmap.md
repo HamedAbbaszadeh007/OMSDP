@@ -1,4 +1,4 @@
-# 13. Implementation Roadmap
+# Implementation Roadmap
 
 ## Purpose
 
