@@ -1,4 +1,4 @@
-# 14. Architecture Risks & Mitigation
+# Architecture Risks & Mitigation
 
 ## Purpose
 
