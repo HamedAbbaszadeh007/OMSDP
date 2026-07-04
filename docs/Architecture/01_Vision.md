@@ -17,14 +17,3 @@ Our long-term vision is to help municipalities make better decisions, improve pu
 OMSDP is not simply a software project. It is a long-term vision for intelligent urban management.
 ### Thank you.
 
-## Architecture Principles
-#### Architecture First
-#### API First
-#### Open Standards
-#### Open Source First
-#### Security by Design
-#### AI Ready
-#### Scalability by Design
-#### Interoperability
-#### Simplicity
-#### Evolution over Perfection
